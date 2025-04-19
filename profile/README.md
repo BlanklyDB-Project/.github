@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! This is the BlanklyDB project！ 👋
 
 <!--
 
