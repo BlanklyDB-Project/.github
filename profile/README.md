@@ -1,5 +1,10 @@
 ## Hi! 这里是 BlanklyDB project！ 👋
 这是一个非营利的fan制网站项目，这个网站的几乎都是开源的。（用上了就会开源，没用上的半成品没必要开源）
+## 架构图
+### 网站大体框架
+<img width="681" height="435" alt="屏幕截图 2025-11-22 235841" src="https://github.com/user-attachments/assets/e8efd601-866f-42a1-85ea-41584ebfd5c6" />
+
+
 
 ## 为BlanklyDB project贡献自己的力量
 ### 众人拾柴火焰高
